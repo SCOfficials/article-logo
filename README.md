@@ -25,3 +25,4 @@ This GitHub post serves as a timestamped proof of my logo’s originality. By do
 
 🚀 Timestamp verified by GitHub commit history.
 
+<img src="SC_Official-300x48 .png">
